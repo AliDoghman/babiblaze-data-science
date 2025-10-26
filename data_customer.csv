@@ -1,0 +1,102 @@
+TransactionID,Timestamp,DayOfWeek,BranchLocation,CustomerID,Gender,Service,Price (IDR),BarberName,BarberTier,Rating (1-5),Duration (Minutes)
+TRX001,2025-01-01 10:45:11,Rabu,Jakarta Selatan,CUST188,Pria,Potong Rambut Pria,60000,Budi,Senior,5,28
+TRX002,2025-01-01 11:20:45,Rabu,Jakarta Pusat,CUST112,Pria,Cukur Jenggot,35000,Eko,Junior,4,21
+TRX003,2025-01-01 12:55:01,Rabu,Jakarta Utara,CUST134,Pria,Potong Rambut Pria,55000,Charlie,Senior,5,33
+TRX004,2025-01-01 14:18:22,Rabu,Jakarta Timur,CUST176,Pria,Paket Ganteng,75000,Joko,Junior,4,53
+TRX005,2025-01-01 15:30:10,Rabu,Jakarta Selatan,CUST195,Wanita,Potong Rambut Wanita,95000,Rina,Senior,5,59
+TRX006,2025-01-01 16:40:33,Rabu,Jakarta Pusat,CUST105,Pria,Potong Rambut Pria,50000,Eko,Junior,4,31
+TRX007,2025-01-01 18:05:59,Rabu,Jakarta Utara,CUST141,Pria,Cukur Jenggot,35000,Charlie,Senior,5,18
+TRX008,2025-01-01 19:22:18,Rabu,Jakarta Timur,CUST162,Pria,Potong Rambut Anak,45000,Joko,Junior,5,24
+TRX009,2025-01-01 20:30:05,Rabu,Jakarta Selatan,CUST181,Pria,Cat Rambut,250000,Rina,Senior,4,115
+TRX010,2025-01-02 10:10:29,Kamis,Jakarta Pusat,CUST121,Pria,Paket Ganteng,80000,Eko,Junior,5,49
+TRX011,2025-01-02 11:45:14,Kamis,Jakarta Utara,CUST155,Pria,Potong Rambut Pria,55000,Charlie,Senior,4,29
+TRX012,2025-01-02 13:01:37,Kamis,Jakarta Timur,CUST170,Pria,Cukur Jenggot,35000,Joko,Junior,4,19
+TRX013,2025-01-02 14:25:48,Kamis,Jakarta Selatan,CUST199,Pria,Potong Rambut Pria,60000,Agus,Senior,5,26
+TRX014,2025-01-02 15:50:02,Kamis,Jakarta Pusat,CUST101,Wanita,Potong Rambut Wanita,90000,Rina,Senior,5,62
+TRX015,2025-01-02 17:05:19,Kamis,Jakarta Utara,CUST148,Pria,Potong Rambut Anak,45000,Charlie,Senior,5,22
+TRX016,2025-01-02 18:33:45,Kamis,Jakarta Timur,CUST159,Pria,Paket Ganteng,75000,Joko,Junior,4,50
+TRX017,2025-01-02 19:45:31,Kamis,Jakarta Selatan,CUST183,Pria,Cukur Jenggot,40000,Budi,Senior,5,17
+TRX018,2025-01-02 20:55:20,Kamis,Jakarta Pusat,CUST115,Pria,Cat Rambut,220000,Rina,Senior,4,121
+TRX019,2025-01-03 10:22:08,Jumat,Jakarta Utara,CUST139,Pria,Potong Rambut Pria,55000,Charlie,Senior,5,30
+TRX020,2025-01-03 11:30:55,Jumat,Jakarta Timur,CUST168,Pria,Cukur Jenggot,35000,Joko,Junior,4,20
+TRX021,2025-01-03 12:58:11,Jumat,Jakarta Selatan,CUST191,Pria,Paket Ganteng,85000,Agus,Senior,5,45
+TRX022,2025-01-03 14:15:39,Jumat,Jakarta Pusat,CUST108,Pria,Potong Rambut Pria,50000,Eko,Junior,4,32
+TRX023,2025-01-03 15:40:01,Jumat,Jakarta Utara,CUST152,Wanita,Potong Rambut Wanita,90000,Rina,Senior,5,58
+TRX024,2025-01-03 16:55:48,Jumat,Jakarta Timur,CUST165,Pria,Potong Rambut Anak,45000,Joko,Junior,5,25
+TRX025,2025-01-03 18:10:22,Jumat,Jakarta Selatan,CUST185,Pria,Potong Rambut Pria,60000,Budi,Senior,5,27
+TRX026,2025-01-03 19:35:10,Jumat,Jakarta Pusat,CUST111,Pria,Cukur Jenggot,35000,Eko,Junior,4,16
+TRX027,2025-01-03 20:45:51,Jumat,Jakarta Utara,CUST145,Pria,Cat Rambut,230000,Rina,Senior,5,118
+TRX028,2025-01-04 10:05:17,Sabtu,Jakarta Timur,CUST178,Pria,Paket Ganteng,75000,Joko,Junior,5,51
+TRX029,2025-01-04 11:25:33,Sabtu,Jakarta Selatan,CUST197,Pria,Potong Rambut Pria,60000,Agus,Senior,4,29
+TRX030,2025-01-04 12:40:09,Sabtu,Jakarta Pusat,CUST103,Pria,Cukur Jenggot,35000,Eko,Junior,5,19
+TRX031,2025-01-04 14:00:51,Sabtu,Jakarta Utara,CUST131,Pria,Potong Rambut Pria,55000,Charlie,Senior,5,31
+TRX032,2025-01-04 15:15:28,Sabtu,Jakarta Timur,CUST157,Pria,Potong Rambut Anak,45000,Joko,Junior,4,23
+TRX033,2025-01-04 16:30:14,Sabtu,Jakarta Selatan,CUST189,Wanita,Potong Rambut Wanita,95000,Rina,Senior,5,60
+TRX034,2025-01-04 17:55:40,Sabtu,Jakarta Pusat,CUST119,Pria,Paket Ganteng,80000,Eko,Junior,4,48
+TRX035,2025-01-04 19:10:06,Sabtu,Jakarta Utara,CUST143,Pria,Cukur Jenggot,35000,Charlie,Senior,5,20
+TRX036,2025-01-04 20:25:38,Sabtu,Jakarta Timur,CUST166,Pria,Cat Rambut,210000,Joko,Junior,4,125
+TRX037,2025-01-05 10:35:21,Minggu,Jakarta Selatan,CUST180,Pria,Potong Rambut Pria,60000,Budi,Senior,5,28
+TRX038,2025-01-05 11:50:07,Minggu,Jakarta Pusat,CUST114,Pria,Cukur Jenggot,35000,Eko,Junior,4,18
+TRX039,2025-01-05 13:05:43,Minggu,Jakarta Utara,CUST136,Pria,Potong Rambut Pria,55000,Charlie,Senior,5,30
+TRX040,2025-01-05 14:20:19,Minggu,Jakarta Timur,CUST173,Pria,Paket Ganteng,75000,Joko,Junior,5,52
+TRX041,2025-01-05 15:35:05,Minggu,Jakarta Selatan,CUST193,Wanita,Potong Rambut Wanita,95000,Rina,Senior,5,61
+TRX042,2025-01-05 16:50:41,Minggu,Jakarta Pusat,CUST107,Pria,Potong Rambut Pria,50000,Eko,Junior,4,30
+TRX043,2025-01-05 18:05:17,Minggu,Jakarta Utara,CUST150,Pria,Cukur Jenggot,35000,Charlie,Senior,5,19
+TRX044,2025-01-05 19:20:03,Minggu,Jakarta Timur,CUST161,Pria,Potong Rambut Anak,45000,Joko,Junior,4,24
+TRX045,2025-01-05 20:35:49,Minggu,Jakarta Selatan,CUST186,Pria,Cat Rambut,250000,Rina,Senior,5,119
+TRX046,2025-01-06 10:18:33,Senin,Jakarta Pusat,CUST123,Pria,Paket Ganteng,80000,Eko,Junior,5,47
+TRX047,2025-01-06 11:42:11,Senin,Jakarta Utara,CUST154,Pria,Potong Rambut Pria,55000,Charlie,Senior,4,32
+TRX048,2025-01-06 13:01:05,Senin,Jakarta Timur,CUST172,Pria,Cukur Jenggot,35000,Joko,Junior,5,20
+TRX049,2025-01-06 14:22:40,Senin,Jakarta Selatan,CUST198,Pria,Potong Rambut Pria,60000,Agus,Senior,5,27
+TRX050,2025-01-06 15:45:19,Senin,Jakarta Pusat,CUST102,Wanita,Potong Rambut Wanita,90000,Rina,Senior,4,59
+... (and 950 more rows)
+TRX951,2025-08-04 18:58:21,Senin,Jakarta Selatan,CUST188,Pria,Paket Ganteng,85000,Agus,Senior,5,45
+TRX952,2025-08-04 19:30:11,Senin,Jakarta Pusat,CUST112,Pria,Cukur Jenggot,35000,Eko,Junior,4,18
+TRX953,2025-08-04 20:15:45,Senin,Jakarta Utara,CUST134,Pria,Potong Rambut Pria,55000,Charlie,Senior,5,31
+TRX954,2025-08-05 10:10:02,Selasa,Jakarta Timur,CUST176,Pria,Paket Ganteng,75000,Joko,Junior,5,52
+TRX955,2025-08-05 11:25:30,Selasa,Jakarta Selatan,CUST195,Wanita,Potong Rambut Wanita,95000,Rina,Senior,4,60
+TRX956,2025-08-05 12:40:15,Selasa,Jakarta Pusat,CUST105,Pria,Potong Rambut Pria,50000,Eko,Junior,5,29
+TRX957,2025-08-05 13:55:01,Selasa,Jakarta Utara,CUST141,Pria,Cukur Jenggot,35000,Charlie,Senior,4,19
+TRX958,2025-08-05 15:10:48,Selasa,Jakarta Timur,CUST162,Pria,Potong Rambut Anak,45000,Joko,Junior,5,23
+TRX959,2025-08-05 16:25:33,Selasa,Jakarta Selatan,CUST181,Pria,Cat Rambut,250000,Rina,Senior,5,120
+TRX960,2025-08-05 17:50:19,Selasa,Jakarta Pusat,CUST121,Pria,Paket Ganteng,80000,Eko,Junior,4,48
+TRX961,2025-08-05 19:05:05,Selasa,Jakarta Utara,CUST155,Pria,Potong Rambut Pria,55000,Charlie,Senior,5,32
+TRX962,2025-08-05 20:20:41,Selasa,Jakarta Timur,CUST170,Pria,Cukur Jenggot,35000,Joko,Junior,4,17
+TRX963,2025-08-06 10:01:27,Rabu,Jakarta Selatan,CUST199,Pria,Potong Rambut Pria,60000,Agus,Senior,5,28
+TRX964,2025-08-06 11:15:03,Rabu,Jakarta Pusat,CUST101,Wanita,Potong Rambut Wanita,90000,Rina,Senior,4,58
+TRX965,2025-08-06 12:30:49,Rabu,Jakarta Utara,CUST148,Pria,Potong Rambut Anak,45000,Charlie,Senior,5,24
+TRX966,2025-08-06 13:45:25,Rabu,Jakarta Timur,CUST159,Pria,Paket Ganteng,75000,Joko,Junior,5,51
+TRX967,2025-08-06 15:00:11,Rabu,Jakarta Selatan,CUST183,Pria,Cukur Jenggot,40000,Budi,Senior,4,20
+TRX968,2025-08-06 16:15:57,Rabu,Jakarta Pusat,CUST115,Pria,Cat Rambut,220000,Rina,Senior,5,117
+TRX969,2025-08-06 17:40:33,Rabu,Jakarta Utara,CUST139,Pria,Potong Rambut Pria,55000,Charlie,Senior,4,29
+TRX970,2025-08-06 18:55:19,Rabu,Jakarta Timur,CUST168,Pria,Cukur Jenggot,35000,Joko,Junior,5,21
+TRX971,2025-08-06 20:10:05,Rabu,Jakarta Selatan,CUST191,Pria,Paket Ganteng,85000,Agus,Senior,5,46
+TRX972,2025-08-07 10:25:51,Kamis,Jakarta Pusat,CUST108,Pria,Potong Rambut Pria,50000,Eko,Junior,4,30
+TRX973,2025-08-07 11:40:27,Kamis,Jakarta Utara,CUST152,Wanita,Potong Rambut Wanita,90000,Rina,Senior,5,61
+TRX974,2025-08-07 12:55:13,Kamis,Jakarta Timur,CUST165,Pria,Potong Rambut Anak,45000,Joko,Junior,4,22
+TRX975,2025-08-07 14:10:59,Kamis,Jakarta Selatan,CUST185,Pria,Potong Rambut Pria,60000,Budi,Senior,5,27
+TRX976,2025-08-07 15:25:35,Kamis,Jakarta Pusat,CUST111,Pria,Cukur Jenggot,35000,Eko,Junior,5,16
+TRX977,2025-08-07 16:40:21,Kamis,Jakarta Utara,CUST145,Pria,Cat Rambut,230000,Rina,Senior,4,122
+TRX978,2025-08-07 18:05:07,Kamis,Jakarta Timur,CUST178,Pria,Paket Ganteng,75000,Joko,Junior,5,50
+TRX979,2025-08-07 19:20:43,Kamis,Jakarta Selatan,CUST197,Pria,Potong Rambut Pria,60000,Agus,Senior,4,31
+TRX980,2025-08-07 20:35:29,Kamis,Jakarta Pusat,CUST103,Pria,Cukur Jenggot,35000,Eko,Junior,5,18
+TRX981,2025-08-08 10:12:15,Jumat,Jakarta Utara,CUST131,Pria,Potong Rambut Pria,55000,Charlie,Senior,4,33
+TRX982,2025-08-08 11:30:01,Jumat,Jakarta Timur,CUST157,Pria,Potong Rambut Anak,45000,Joko,Junior,5,25
+TRX983,2025-08-08 12:45:47,Jumat,Jakarta Selatan,CUST189,Wanita,Potong Rambut Wanita,95000,Rina,Senior,4,59
+TRX984,2025-08-08 14:00:33,Jumat,Jakarta Pusat,CUST119,Pria,Paket Ganteng,80000,Eko,Junior,5,47
+TRX985,2025-08-08 15:15:19,Jumat,Jakarta Utara,CUST143,Pria,Cukur Jenggot,35000,Charlie,Senior,4,20
+TRX986,2025-08-08 16:30:05,Jumat,Jakarta Timur,CUST166,Pria,Cat Rambut,210000,Joko,Junior,5,123
+TRX987,2025-08-08 17:55:51,Jumat,Jakarta Selatan,CUST180,Pria,Potong Rambut Pria,60000,Budi,Senior,5,26
+TRX988,2025-08-08 19:10:27,Jumat,Jakarta Pusat,CUST114,Pria,Cukur Jenggot,35000,Eko,Junior,4,17
+TRX989,2025-08-08 20:25:13,Jumat,Jakarta Utara,CUST136,Pria,Potong Rambut Pria,55000,Charlie,Senior,5,30
+TRX990,2025-08-09 10:01:59,Sabtu,Jakarta Timur,CUST173,Pria,Paket Ganteng,75000,Joko,Junior,4,54
+TRX991,2025-08-09 11:20:45,Sabtu,Jakarta Selatan,CUST193,Wanita,Potong Rambut Wanita,95000,Rina,Senior,5,63
+TRX992,2025-08-09 12:40:31,Sabtu,Jakarta Pusat,CUST107,Pria,Potong Rambut Pria,50000,Eko,Junior,4,32
+TRX993,2025-08-09 14:00:17,Sabtu,Jakarta Utara,CUST150,Pria,Cukur Jenggot,35000,Charlie,Senior,5,22
+TRX994,2025-08-09 15:15:03,Sabtu,Jakarta Timur,CUST161,Pria,Potong Rambut Anak,45000,Joko,Junior,4,21
+TRX995,2025-08-09 16:30:49,Sabtu,Jakarta Selatan,CUST186,Pria,Cat Rambut,250000,Rina,Senior,5,116
+TRX996,2025-08-09 17:55:25,Sabtu,Jakarta Pusat,CUST123,Pria,Paket Ganteng,80000,Eko,Junior,5,49
+TRX997,2025-08-09 19:10:11,Sabtu,Jakarta Utara,CUST154,Pria,Potong Rambut Pria,55000,Charlie,Senior,4,28
+TRX998,2025-08-09 20:25:57,Sabtu,Jakarta Timur,CUST172,Pria,Cukur Jenggot,35000,Joko,Junior,5,18
+TRX999,2025-08-10 10:30:43,Minggu,Jakarta Selatan,CUST198,Pria,Potong Rambut Pria,60000,Agus,Senior,4,29
+TRX1000,2025-08-10 11:45:29,Minggu,Jakarta Pusat,CUST102,Wanita,Potong Rambut Wanita,90000,Rina,Senior,5,57
